@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"For a summer day hike on moderate terrain, think in terms of: safety, navigation, protection from the elements, and comfort. Here’s a concise checklist with specifics.",5,5,4,"Matches the actual day-hike-gear prompt and keeps the guidance practical and concise"
+overnight-camping,"For a first overnight camping trip, think in terms of four pillars: planning, gear, skills, and safety.",4,5,5,"Matches the overnight-camping prompt and preserves a strong beginner-safe focus"
+three-day-backpacking,"For a 3-day backpacking trip in the mountains, plan for weather changes, navigation, layered clothing, and safety margins.",5,5,5,"Matches the three-day-backpacking prompt and keeps safety and planning coverage strong"
+winter-hiking,"Winter hiking requires extra insulation, traction, emergency layers, and a more conservative itinerary than summer hiking.",5,4,4,"Matches the winter-hiking prompt and reflects seasonal risk awareness without overloading detail"
+trail-difficulty,"To match a trail to your fitness level as a beginner, focus on distance, elevation gain, trail rating, and recent conditions.",5,5,5,"Matches the trail-difficulty prompt and gives a clear beginner-oriented decision framework"
