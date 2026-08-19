@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"For a summer day hike in moderate terrain, prioritize water, sun protection, layered clothing, and a small first-aid kit.",5,5,4,"Matches the actual day-hike-gear prompt and provides practical gear guidance"
+overnight-camping,"For a first overnight camping trip, focus on weather-ready layers, a shelter setup, a warm sleep system, and a simple meal plan.",4,4,5,"Matches the overnight-camping prompt and gives beginner-safe advice"
+three-day-backpacking,"For a 3-day backpacking trip in the mountains, plan for weather changes, proper navigation, layered clothing, and safety margins.",5,5,5,"Matches the three-day-backpacking prompt with strong safety and planning detail"
+winter-hiking,"Winter hiking requires extra insulation, traction, emergency layers, and a more conservative itinerary than summer hiking.",4,4,4,"Matches winter-hiking and reflects seasonal gear and risk awareness"
+trail-difficulty,"To assess trail difficulty for a beginner, compare elevation gain, distance, terrain, and your fitness level before committing.",5,5,5,"Matches trail-difficulty and provides a clear assessment framework"
