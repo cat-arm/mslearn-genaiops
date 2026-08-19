@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,comments
+day-hike-gear,"For a summer day hike on moderate terrain, plan for heat, sun, and the unexpected. Here’s a focused list of essentials, assuming a half-day to full-day outing on established trails.",4,4,4,3,"Good coverage but less detailed than GPT-5.1 baseline"
+overnight-camping,"For a first overnight, think simple, safe, and close to help. Here’s a step-by-step plan you can follow.",4,4,4,3,"Solid advice, slightly less nuanced"
+three-day-backpacking,"For a 3-day backpacking trip in the mountains, plan for weather changes, navigation, layered clothing, and safety margins.",4,4,4,4,"Good safety guidance, concise"
+winter-hiking,"Winter hiking requires extra insulation, traction, emergency layers, and a more conservative itinerary than summer hiking.",4,4,4,3,"Clear comparison, adequate detail"
+trail-difficulty,"To match a trail to your fitness level, use a mix of research, honest self-assessment, and small test runs.",4,4,4,4,"Practical framework provided"
